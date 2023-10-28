@@ -1,7 +1,6 @@
 # public_assignment
 
-Hi Jorge
-To run this,
+Hi Jorge, to run this,
 
 1. open stata
 2. type "sysdir" to see where your personal ado folder is
